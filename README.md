@@ -1,4 +1,4 @@
-# Pyon-Project
+# Python-Project
 #Python project for selecting a random story
 ocassion=['On the occasion of New Year','On the occasion of Christmas','On 26th january 2023']
 
